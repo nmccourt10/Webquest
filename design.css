@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.mycontent {
+    margin: 0 auto;
+    width: 760px;
+}
+.topimg{
+    width: 100%;
+    background-color: #2A6495;
+}
+.thinkingimg{
+    max-width: 760px;
+}
+.navigationbar {
+    margin: 20px;
+}
+
+.button{
+    display: inline-block;
+    padding: 10px;
+    min-width: 150px;
+    border: 2px solid black;
+    font-family: Arial, sans-serif
+}
+
+.button:hover{
+    background-color: grey;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
